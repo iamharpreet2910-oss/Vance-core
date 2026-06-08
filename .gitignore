@@ -1,0 +1,15 @@
+# Security
+.env
+
+# Vance Local Artifacts
+vance_debug.log
+vance_reply.mp3
+temp_mic.wav
+in_memory.wav
+
+# Persistent Memory Database
+Vance_Memory_Core/
+
+# Python Caches
+__pycache__/
+*.pyc
